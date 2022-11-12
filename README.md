@@ -2,6 +2,8 @@
 
 This library management system aims to automate library management process and help librarians deal with library processes everyday. This project is created using Java and it is using SQLite as its database. 
 
+The Pdf can be used to understand the assignment more clearly how normalisations and other things can be done along with and ER diagram.
+
 ## Features
 - Track, process, view, modify, and print transaction information
 - Has the ability to export information to .xlsx file
