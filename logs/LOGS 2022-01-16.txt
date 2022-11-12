@@ -1,0 +1,125 @@
+2022/01/16 02:13:48 admin Logged in.
+2022/01/16 02:14:23 Librarian updated book ID 10029 information.
+2022/01/16 02:14:51 Librarian modified Student Number 19010121 information from the database.
+2022/01/16 02:15:01 Librarian removed student number 19010121 information from the database.
+2022/01/16 02:15:19 Librarian added asdxcv to Book Database.
+2022/01/16 02:15:31 Librarian removed Book ID 10030 information from the database.
+2022/01/16 02:16:09 Librarin issued book number 10008 to student number 19010369 on Jan 16, 2022.
+2022/01/16 02:16:36 19010369 returned Book ID 10008 to the library.
+2022/01/16 02:17:40 Librarian added Student Number 213213123 to Student Database.
+2022/01/16 02:17:52 Librarian exported Book Information as Excel file.
+2022/01/16 02:17:55 Librarian exported Deleted Book Information as Excel file.
+2022/01/16 02:17:58 Librarian exported Student Information as Excel file.
+2022/01/16 02:18:01 Librarian exported Deleted Student Information as Excel file.
+2022/01/16 02:18:05 Librarian exported Issue Book Information as Excel file.
+2022/01/16 02:18:09 Librarian exported Return Book Information as Excel file.
+2022/01/16 02:18:23 Admin Login.
+2022/01/16 02:18:46 Administrator updated Librarian danielogarta09's information from the database.
+2022/01/16 02:18:57 Administrator removed Librarian danielogarta09's information from the database.
+2022/01/16 02:19:18 Admin Login.
+2022/01/16 02:19:25 Administrator updated the password.
+2022/01/16 02:19:36 Admin Login.
+2022/01/16 02:19:43 Admin restored deleted book Wag ako iba nalang to Book Database.
+2022/01/16 02:19:55 Admin Login.
+2022/01/16 02:20:00 Admin restored deleted student 19010121 to Student Database.
+2022/01/16 02:20:14 Admin Login.
+2022/01/16 02:20:38 Librarian logged out.
+2022/01/16 02:23:37 admin Logged in.
+2022/01/16 02:24:15 19010614 returned Book ID 10014 to the library.
+2022/01/16 02:24:40 Admin Login.
+2022/01/16 02:25:11 Librarian logged out.
+2022/01/16 03:02:20 admin Logged in.
+2022/01/16 03:06:13 Librarian logged out.
+2022/01/16 03:06:22 admin Logged in.
+2022/01/16 03:06:48 Librarian logged out.
+2022/01/16 03:10:33 admin Logged in.
+2022/01/16 03:28:14 admin Logged in.
+2022/01/16 03:28:18 Librarian logged out.
+2022/01/16 03:30:16 admin Logged in.
+2022/01/16 03:30:19 Librarian logged out.
+2022/01/16 03:30:51 Librarian logged out.
+2022/01/16 03:30:57 admin Logged in.
+2022/01/16 03:31:07 admin Logged in.
+2022/01/16 03:37:50 Librarian logged out.
+2022/01/16 03:49:16 Librarian logged out.
+2022/01/16 09:48:01 admin Logged in.
+2022/01/16 10:19:01 admin Logged in.
+2022/01/16 10:19:54 19010121 returned Book ID 10001 to the library.
+2022/01/16 10:20:33 Librarian logged out.
+2022/01/16 10:20:38 admin Logged in.
+2022/01/16 10:21:31 19010121 returned Book ID 10020 to the library.
+2022/01/16 10:26:55 admin Logged in.
+2022/01/16 10:32:15 admin Logged in.
+2022/01/16 10:32:42 Librarin issued book number 10008 to student number 19010121 on Jan 16, 2022.
+2022/01/16 10:32:59 19010121 returned Book ID 10008 to the library.
+2022/01/16 10:37:08 Librarian logged out.
+2022/01/16 10:37:14 admin Logged in.
+2022/01/16 10:38:13 Librarin issued book number 10021 to student number 19010121 on Jan 16, 2022.
+2022/01/16 10:38:41 19010121 returned Book ID 10021 to the library.
+2022/01/16 10:42:06 admin Logged in.
+2022/01/16 10:42:45 Librarin issued book number 10003 to student number 19010369 on Jan 16, 2022.
+2022/01/16 10:43:43 19010369 returned Book ID 10003 to the library.
+2022/01/16 10:44:09 Librarian logged out.
+2022/01/16 10:48:46 admin Logged in.
+2022/01/16 10:49:17 Librarin issued book number 10001 to student number 19010121 on Jan 16, 2022.
+2022/01/16 10:50:05 Librarin issued book number 10003 to student number 19010121 on Jan 16, 2020.
+2022/01/16 10:51:01 19010121 returned Book ID 10001 to the library.
+2022/01/16 10:51:49 Librarin issued book number 10004 to student number 19010121 on Jan 9, 2020.
+2022/01/16 10:52:10 Librarian logged out.
+2022/01/16 10:52:16 admin Logged in.
+2022/01/16 10:52:39 Librarian logged out.
+2022/01/16 10:53:35 admin Logged in.
+2022/01/16 10:54:45 admin Logged in.
+2022/01/16 10:56:40 Librarin issued book number 10001 to student number 19010121 on Jan 14, 2022.
+2022/01/16 10:57:18 19010121 returned Book ID 10001 to the library.
+2022/01/16 10:58:47 admin Logged in.
+2022/01/16 10:59:22 19010121 returned Book ID 10003 to the library.
+2022/01/16 10:59:48 Librarian logged out.
+2022/01/16 11:04:02 admin Logged in.
+2022/01/16 11:04:33 Librarin issued book number 10007 to student number 19010121 on Jan 16, 2022.
+2022/01/16 11:04:57 19010121 returned Book ID 10007 to the library.
+2022/01/16 11:05:42 19010121 returned Book ID 10004 to the library.
+2022/01/16 11:05:50 Librarian logged out.
+2022/01/16 12:09:15 admin Logged in.
+2022/01/16 12:09:36 Admin Login.
+2022/01/16 12:11:02 Librarin issued book number 10001 to student number 19010369 on Jan 16, 2022.
+2022/01/16 12:11:35 Librarin issued book number 10003 to student number 19010369 on Jan 2, 2020.
+2022/01/16 21:53:03 admin Logged in.
+2022/01/16 22:02:06 Librarian logged out.
+2022/01/16 22:07:33 admin1 Logged in.
+2022/01/16 22:08:58 admin1 Logged in.
+2022/01/16 22:09:38 Librarian logged out.
+2022/01/16 22:09:41 admin Logged in.
+2022/01/16 22:09:54 Librarian logged out.
+2022/01/16 22:11:14 admin Logged in.
+2022/01/16 22:11:35 Admin Login.
+2022/01/16 22:11:44 Administrator updated the password.
+2022/01/16 22:12:12 Admin Login.
+2022/01/16 22:12:22 Administrator updated the password.
+2022/01/16 22:12:33 Librarian logged out.
+2022/01/16 22:27:07 admin Logged in.
+2022/01/16 22:27:35 Librarian logged out.
+2022/01/16 22:29:06 admin Logged in.
+2022/01/16 22:30:01 Librarian logged out.
+2022/01/16 22:30:08 admin1 Logged in.
+2022/01/16 22:31:10 admin Logged in.
+2022/01/16 22:31:42 Librarian logged out.
+2022/01/16 22:31:50 admin1 Logged in.
+2022/01/16 22:32:07 Librarian logged out.
+2022/01/16 22:42:18 admin Logged in.
+2022/01/16 22:42:46 Librarian admin modified Student Number 19010121 information from the database.
+2022/01/16 22:43:08 Librarian admin logged out.
+2022/01/16 22:43:38 admin1 Logged in.
+2022/01/16 22:43:59 Admin Login.
+2022/01/16 22:44:48 Librarian admin1 logged out.
+2022/01/16 23:05:25 admin Logged in.
+2022/01/16 23:05:48 Librarian admin logged out.
+2022/01/16 23:14:30 admin Logged in.
+2022/01/16 23:15:17 Librarian admin logged out.
+2022/01/16 23:19:57 admin Logged in.
+2022/01/16 23:21:13 Librarian admin logged out.
+2022/01/16 23:28:10 admin Logged in.
+2022/01/16 23:29:36 Administrator exported LOGS 2022-01-16 as PDF file.
+2022/01/16 23:30:16 Librarian admin logged out.
+2022/01/16 23:33:48 admin Logged in.
+2022/01/16 23:34:57 Librarian admin logged out.

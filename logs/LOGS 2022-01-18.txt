@@ -1,0 +1,6 @@
+2022/01/18 08:32:13 admin Logged in.
+2022/01/18 08:33:36 Librarian admin added Sample Book to Book Database.
+2022/01/18 08:33:52 Librarian admin issued book number 10032 to student number 19010121 on Jan 18, 2022.
+2022/01/18 08:34:43 19010121 returned Book ID 10032 to the library.
+2022/01/18 08:37:13 Administrator exported LOGS 2022-01-18 as PDF file.
+2022/01/18 08:44:29 Librarian admin logged out.

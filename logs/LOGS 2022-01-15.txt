@@ -1,0 +1,105 @@
+2022/01/15 10:01:51 Librarin issued book number 10003 to student number 19010121 on Jan 15, 2022.
+2022/01/15 10:04:01 danielogarta09 Logged in.
+2022/01/15 10:04:16 admin Logged in.
+2022/01/15 10:06:31 admin Logged in.
+2022/01/15 10:06:50 Admin Login.
+2022/01/15 10:06:56 Administrator updated the password.
+2022/01/15 10:10:34 admin Logged in.
+2022/01/15 10:11:02 Librarian updated book ID 10022 information.
+2022/01/15 10:14:43 admin Logged in.
+2022/01/15 10:15:01 Admin Login.
+2022/01/15 10:15:09 Administrator removed Librarian danielogarta09's information from the database.
+2022/01/15 10:17:09 admin Logged in.
+2022/01/15 10:17:29 Admin Login.
+2022/01/15 10:17:38 Administrator updated Librarian admin's information from the database.
+2022/01/15 10:19:39 admin Logged in.
+2022/01/15 10:20:09 Librarian modified Student Number 19010614 information from the database.
+2022/01/15 10:20:33 Librarian modified Student Number 19010614 information from the database.
+2022/01/15 10:22:44 admin's password retrieved.
+2022/01/15 10:24:09 admin Logged in.
+2022/01/15 10:24:30 Librarian removed Book ID 10022 information from the database.
+2022/01/15 10:28:06 Account username a3wa signed up as a librarian.
+2022/01/15 10:29:21 admin Logged in.
+2022/01/15 10:29:43 Librarian removed student number 19010121 information from the database.
+2022/01/15 10:30:01 Admin Login.
+2022/01/15 10:30:12 Admin restored deleted student 19010121 to Student Database.
+2022/01/15 10:35:41 admin Logged in.
+2022/01/15 10:36:04 Librarian exported Deleted Book Information as Excel file.
+2022/01/15 10:36:28 Librarian logged out.
+2022/01/15 10:50:23 admin Logged in.
+2022/01/15 10:52:29 Librarin issued book number 10020 to student number 19010121 on Jan 15, 2022.
+2022/01/15 10:54:13 19010121 returned Book ID 10003 to the library.
+2022/01/15 10:56:26 Librarian exported Book Information as Excel file.
+2022/01/15 10:57:18 Admin Login.
+2022/01/15 10:57:35 Admin restored deleted book test to Book Database.
+2022/01/15 10:58:02 Admin Login.
+2022/01/15 11:00:05 Librarian logged out.
+2022/01/15 11:21:34 Account username admin1 signed up as a librarian.
+2022/01/15 11:24:58 admin's password retrieved.
+2022/01/15 11:25:34 Mike Enriquez's password retrieved.
+2022/01/15 11:31:26 admin1 Logged in.
+2022/01/15 11:44:05 Librarian added Sample Book Name to Book Database.
+2022/01/15 12:34:04 admin1 Logged in.
+2022/01/15 12:36:09 admin1 Logged in.
+2022/01/15 12:39:22 19010614 returned Book ID 10024 to the library.
+2022/01/15 12:47:05 Librarian added Student Number 19010578 to Student Database.
+2022/01/15 13:01:52 admin1 Logged in.
+2022/01/15 13:05:18 admin1 Logged in.
+2022/01/15 13:11:05 Librarian removed Book ID 10023 information from the database.
+2022/01/15 13:13:15 Librarian removed Book ID 10020 information from the database.
+2022/01/15 13:16:37 Librarian removed student number 19010578 information from the database.
+2022/01/15 13:34:46 Librarian logged out.
+2022/01/15 13:38:40 admin Logged in.
+2022/01/15 13:39:34 Librarian logged out.
+2022/01/15 13:40:37 Account username danielogarta09 signed up as a librarian.
+2022/01/15 13:41:30 daniel logarta's password retrieved.
+2022/01/15 13:41:37 danielogarta09 Logged in.
+2022/01/15 13:43:02 Admin Login.
+2022/01/15 13:46:04 Librarian added Hunger Games to Book Database.
+2022/01/15 13:48:17 Librarian removed Book ID 10025 information from the database.
+2022/01/15 13:51:16 Librarin issued book number 10006 to student number 19010369 on Jan 15, 2022.
+2022/01/15 13:54:32 19010369 returned Book ID 10006 to the library.
+2022/01/15 13:59:01 Librarian removed student number 19010148 information from the database.
+2022/01/15 14:05:03 Librarian exported Student Information as Excel file.
+2022/01/15 14:05:21 Librarian exported Return Book Information as Excel file.
+2022/01/15 14:08:26 Admin Login.
+2022/01/15 14:09:44 Administrator removed Librarian a3wa's information from the database.
+2022/01/15 14:10:44 Admin Login.
+2022/01/15 14:11:19 Administrator updated Librarian danielogarta09's information from the database.
+2022/01/15 14:11:22 Librarian logged out.
+2022/01/15 14:12:22 daniel logarta's password retrieved.
+2022/01/15 14:12:30 danielogarta09 Logged in.
+2022/01/15 14:12:51 Admin Login.
+2022/01/15 14:13:27 Admin Login.
+2022/01/15 14:14:11 Administrator updated the password.
+2022/01/15 14:14:24 Admin Login.
+2022/01/15 14:16:04 Admin Login.
+2022/01/15 14:18:49 Admin restored deleted book The Maze Runner to Book Database.
+2022/01/15 14:21:06 Librarian removed Book ID 10002 information from the database.
+2022/01/15 14:21:16 Admin Login.
+2022/01/15 14:23:22 Admin restored deleted book Harry Potter and the Philosopher's Stone to Book Database.
+2022/01/15 14:24:54 Admin Login.
+2022/01/15 14:25:10 Admin Login.
+2022/01/15 14:25:35 Admin restored deleted student 19010578 to Student Database.
+2022/01/15 14:25:41 Admin restored deleted student 19010148 to Student Database.
+2022/01/15 14:26:55 Librarian logged out.
+2022/01/15 14:27:56 admin1 Logged in.
+2022/01/15 14:33:30 Librarian logged out.
+2022/01/15 14:33:39 admin Logged in.
+2022/01/15 15:04:45 Admin Login.
+2022/01/15 15:11:45 admin Logged in.
+2022/01/15 15:12:13 Admin Login.
+2022/01/15 15:24:12 Admin Login.
+2022/01/15 15:25:32 Admin Login.
+2022/01/15 15:30:35 Admin Login.
+2022/01/15 15:45:22 Admin Login.
+2022/01/15 15:48:40 Admin restored deleted book test to Book Database.
+2022/01/15 15:48:40 Admin restored deleted book test to Book Database.
+2022/01/15 16:29:03 Librarian logged out.
+2022/01/15 16:32:54 Librarian logged out.
+2022/01/15 16:33:59 Librarian logged out.
+2022/01/15 16:37:10 Librarian logged out.
+2022/01/15 16:37:43 Librarian logged out.
+2022/01/15 16:48:21 Librarian logged out.
+2022/01/15 19:05:30 Librarian logged out.
+2022/01/15 19:06:58 Librarian logged out.
